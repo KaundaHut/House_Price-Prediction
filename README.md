@@ -15,7 +15,7 @@ The code is written in Python 3. The following Python libraries are required:
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* 
+
 ## Usage
 
 The main code is in the house_price_prediction.ipynb Jupyter notebook. The notebook contains the following sections:
